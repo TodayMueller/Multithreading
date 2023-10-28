@@ -1,3 +1,0 @@
-/home/daniil/Work/Program2/tmp/CMakeFiles/program2.dir
-/home/daniil/Work/Program2/tmp/CMakeFiles/edit_cache.dir
-/home/daniil/Work/Program2/tmp/CMakeFiles/rebuild_cache.dir
