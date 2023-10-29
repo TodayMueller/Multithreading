@@ -1,6 +1,6 @@
 # Multithreading
 
-The project is designed for Linux compatibility.
+The project is designed for Linux.
 
 The project consists of two programs: a client and a server, which facilitate interaction between the user and the server over the network. The client program allows data input, while the server processes it and returns the results to the client.
 
